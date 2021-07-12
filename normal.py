@@ -39,7 +39,7 @@ print('RFmodel train takes: {:.2f}'.format(takes))
 '''
 
 
-#Linear regression model
+#Logestic regression model
 '''
 start=time.time()
 score_list=train(LRmodel,LRparams)#Fill in the model and corresponding parameters
