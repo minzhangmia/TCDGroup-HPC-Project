@@ -4,11 +4,11 @@ Building Parameter Space
 '''
 
 
-lr_list=[0.01,0.03,0.001,0.003,0.0001,0.0003]
-layer_list=[5,10,15,20]
-units_list=[100,200,300,400]
-batch_size_list=[64,128,256,512]
-epochs_list=[5,10]
+lr_list=[0.01,0.03,0.001,0.003,0.0001,0.0003] #learning rate
+layer_list=[5,10,15,20]                       #number of model Layer
+units_list=[100,200,300,400]                  #number of neuron, each layer reduce half
+batch_size_list=[64,128,256,512]              #size of the data put into the model
+epochs_list=[5,10]                            #learning times
 
 bpparams=[]
 for lr in lr_list:
