@@ -59,7 +59,7 @@ if __name__ == "__main__":
 '''
 
 '''
-#Linear regression model
+#Logestic regression model
 
 if __name__ == "__main__":
     score_list = []
