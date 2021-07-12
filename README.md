@@ -13,7 +13,7 @@ Using dataset 'Paysim' to build fraud detection models to preditct fraud rate. U
 - normal.py: serial algorithms for BP/RF/LR models. Running seperately for  BPmodel(line 21-29)/RFmodel(line 31-39)/LRmodel(line 41-49)
 - multi.py: parallel algorithm for BP/RF/LR models. Running seperately for  BPmodel(line 32-43)/RFmodel(line 46-59)/LRmodel(line 62-75)
 
-#Result analysis
+# Result analysis
 
 I only using 20 groups of parameter and 2,000 data samples to test BP/RF/LR models in my own laptop for testing time. I also use full dataset and full parameters to test BP model only. The results shows as below:
 
