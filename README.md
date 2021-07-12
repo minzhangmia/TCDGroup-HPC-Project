@@ -21,4 +21,4 @@ I only using 20 groups of parameter and 2,000 data samples to test BP/RF/LR mode
 ![0CADFDDE-1D62-40F8-AD2E-8EA30CAF234A](https://user-images.githubusercontent.com/39356710/125264393-68beb580-e336-11eb-9da9-899e2d635660.png)
 
 - Time for BP model's serial/parallel algorithms (with 768 groups of parameter and 6,000,000 data samples):
-![D83039E9-74AB-47F7-9E74-DFB056FAD40F](https://user-images.githubusercontent.com/39356710/125265013-fef2db80-e336-11eb-947e-1d5b28522c65.png)
+![CC1B54E6-A7DC-422E-9E95-DAE5E9C7DE25](https://user-images.githubusercontent.com/39356710/125265791-c1db1900-e337-11eb-8768-abd02f630463.png)
