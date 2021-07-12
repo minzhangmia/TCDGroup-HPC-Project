@@ -12,3 +12,8 @@ Using dataset 'Paysim' to build fraud detection models to preditct fraud rate. U
 - build_models.py: Building BP/RF/LR models as BPmodel/RFmodel/LRmodel.
 - normal.py: serial algorithms for BP/RF/LR models. Running seperately for  BPmodel(line 21-29)/RFmodel(line 31-39)/LRmodel(line 41-49)
 - multi.py: parallel algorithm for BP/RF/LR models. Running seperately for  BPmodel(line 32-43)/RFmodel(line 46-59)/LRmodel(line 62-75)
+
+#Result analysis
+- time for serial algorithms
+![Uploading 0CADFDDE-1D62-40F8-AD2E-8EA30CAF234A.png…]()
+- 
